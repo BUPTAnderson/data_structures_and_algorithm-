@@ -1,4 +1,4 @@
-package leetcode227;
+package lt0227;
 
 /**
  * Created by Anderson on 2021/3/1

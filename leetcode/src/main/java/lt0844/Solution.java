@@ -1,7 +1,4 @@
-package edu.bupt.leetcode844;
-
-import java.util.LinkedList;
-import java.util.List;
+package lt0844;
 
 /**
  * S长度为m, T长度为n
